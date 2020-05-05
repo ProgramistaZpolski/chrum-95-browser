@@ -19,3 +19,6 @@ i ciesz się swoją nową przeglądarką internetową.
 # Fajne funkcje
 Przysyła powiadomienia!
 ![Powiadomienia](/super.png)
+<br>
+Fajne linki!
+![Linki](/Zrzut%20ekranu%20z%202020-05-05%2013-08-30.png)
