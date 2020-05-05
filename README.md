@@ -14,7 +14,8 @@ a potem
 npm start
 ```
 <br>
-i ciesz się swoją nową przeglądarką internetową
+i ciesz się swoją nową przeglądarką internetową.
+
 # Fajne funkcje
 Przysyła powiadomienia!
 ![Powiadomienia](/super.png)
