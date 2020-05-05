@@ -8,7 +8,8 @@ Wpisz
 npm i
 ```
 <br>
-a potem 
+a potem
+
 ```
 npm start
 ```
