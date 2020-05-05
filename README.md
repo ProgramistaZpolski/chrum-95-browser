@@ -12,4 +12,5 @@ a potem
 ```
 npm start
 ```
+<br>
 i ciesz się swoją nową przeglądarką internetową
